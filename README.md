@@ -1,2 +1,2 @@
-# my-projects
-Proje Depom
+# basic-calculator
+my basic calculator

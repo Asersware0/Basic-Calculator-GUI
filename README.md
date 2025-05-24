@@ -1,2 +1,2 @@
-# basic-calculator
-Basic calculator for JAVA
+# my-projects
+Proje Depom
